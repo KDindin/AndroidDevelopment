@@ -1,0 +1,1 @@
+class Subject ( val name: String, var duration: Int)

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">assignment1</string>
+<!--    <string name="welcome">Elegant furniture  for you</string>-->
+    <string name="logo_tree">Logo tree</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="user_name">User name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+</resources>
